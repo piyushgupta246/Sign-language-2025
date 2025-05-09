@@ -4,3 +4,4 @@ opencv-python
 scikit-learn
 numpy
 pyttsx3
+gunicorn
