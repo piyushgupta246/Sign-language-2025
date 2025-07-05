@@ -2,21 +2,10 @@
 A short description of your project goes here.
 
 ## 📝 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [About](Sign language is a visual means of communication that uses hand gestures, facial expressions, and body movements to convey meaning. It is primarily used by people who are deaf or hard of hearing. Each country or region often has its own unique sign language, such as American Sign Language (ASL), British Sign Language (BSL), or Indian Sign Language (ISL).
 
-## 🔍 About
-Give a detailed explanation of the project, motivation, or background.
-
-## ✨ Features
-- Feature 1
-- Feature 2
-- Feature 3
+Sign languages are fully developed natural languages with their own grammar and structure — they are not simply gestures or mimed versions of spoken language.)
+-
 
 ## ⚙️ Installation
 
