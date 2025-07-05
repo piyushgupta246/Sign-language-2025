@@ -4,12 +4,7 @@ A computer vision-based sign language recognition system that identifies hand ge
 
 ---
 
-## 📝 Table of Contents
-- [About](#about)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
+![Alt text](image_url)
 
 ---
 
