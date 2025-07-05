@@ -4,7 +4,8 @@ A computer vision-based sign language recognition system that identifies hand ge
 
 ---
 
-![Alt text](image_url)
+![Alt text](https://github.com/piyushgupta246/ML/blob/main/1.jpg)
+
 
 ---
 
