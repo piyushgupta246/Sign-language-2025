@@ -1,7 +1,7 @@
-# 🚀 Sign Language Recognition 2025
+# 🩺 Pneumonia Detection Model 2025
 
-A computer vision-based sign language recognition system that identifies hand gestures using AI and translates them into meaningful text. This project aims to assist people with hearing or speech impairments by making communication more inclusive and accessible.
 
+An AI-based medical imaging system that uses deep learning to detect pneumonia from chest X-ray images. This project is designed to assist radiologists and healthcare professionals in early and accurate diagnosis of pneumonia, enhancing clinical decision-making and reducing diagnostic time.
 ---
 
 ![Alt text](https://github.com/piyushgupta246/ML/blob/main/1.jpg)
@@ -11,9 +11,11 @@ A computer vision-based sign language recognition system that identifies hand ge
 
 ## 🔍 About
 
-Sign language is a visual means of communication that uses hand gestures, facial expressions, and body movements to convey meaning. It is primarily used by people who are deaf or hard of hearing. Each country or region often has its own unique sign language, such as American Sign Language (ASL), British Sign Language (BSL), or Indian Sign Language (ISL).
+Pneumonia is a serious lung infection that inflames the air sacs in one or both lungs. It can be caused by bacteria, viruses, or fungi and is a leading cause of death among children and the elderly worldwide.
 
-Sign languages are fully developed natural languages with their own grammar and structure — they are not simply gestures or mimed versions of spoken language.
+Early diagnosis is critical to effective treatment, but interpreting chest X-rays can be challenging, especially in areas with limited access to skilled radiologists. This project leverages convolutional neural networks (CNNs) to automate and improve the accuracy of pneumonia detection using chest X-ray images.
+
+
 
 ---
 
@@ -21,12 +23,18 @@ Sign languages are fully developed natural languages with their own grammar and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/piyushgupta246/Sign-language-2025.git
+git clone https://github.com/piyushgupta246/Pneumonia-Detection-2025.git
 
 # Navigate into the project directory
-cd Sign-language-2025
+cd Pneumonia-Detection-2025
 
 # (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
