@@ -5,7 +5,7 @@ An intelligent AI-powered computer vision system designed to recognize hand gest
 
 ---
 
-![Alt text](https://github.com/piyushgupta246/ML/blob/main/SignLanguageDetection.jpg)
+![Alt text](https://github.com/piyushgupta246/ML/blob/main/1.jpg)
 
 ---
 
